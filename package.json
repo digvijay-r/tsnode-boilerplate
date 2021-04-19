@@ -1,0 +1,31 @@
+{
+  "name": "tsnode-boilerplate",
+  "version": "1.0.0",
+  "description": "TS, Node, Express Boilerplate code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digvijay-r/tsnode-boilerplate.git"
+  },
+  "keywords": [
+    "TS",
+    "Node",
+    "Express"
+  ],
+  "author": "Digvijay Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digvijay-r/tsnode-boilerplate/issues"
+  },
+  "homepage": "https://github.com/digvijay-r/tsnode-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "typescript": "^4.2.4"
+  }
+}
